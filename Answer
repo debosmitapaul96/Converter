@@ -1,0 +1,2 @@
+1.We can't call isHot() or isFast() method because it is not of Converter type.
+2.To call this methods, class name has to be embeded as ((TemperatureConverter)converter.isHot()) and ((TemperatureConverter)converter.isFast())
